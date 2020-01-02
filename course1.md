@@ -1,14 +1,24 @@
-## MOHAN - INSA - MS-IOT PORTFOLIO
+## Course 1 : MIDDLEWARE & SoA - MiddleWare
 
-This portfolio shares the learning outcomes & various projects delivered. 
+The course focuses .....
 
-### COURSE 1 TITLE 
+## Course Overview & Learning
 
-Quick look on the projects & course outcomes
+Details of courses, learning gist...
 
-# Course 1 Outcome
+## Key Deliverables Delivered
 
-# Deliverables
+- Presentation 
+- TP solved material
+- Project Report 
+
+### Link to Deliverables
+
+- OM2M Report [project_report](./om2m_report.pdf).
+- others...
+- others ...
+
+Go to Homepage [**BACK**](./index.md).
 
 ### Contact
 
