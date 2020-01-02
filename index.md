@@ -1,4 +1,4 @@
-# MS-IOT PORTFOLIO
+## Advanced Master in Innovative and Secure IoT Systems - MSIoT PORTFOLIO
 
 The course delivered trainning to innovate, design, implement, and market a **smart system** starting from devices to business applications taking into account wider societal issues.
 
