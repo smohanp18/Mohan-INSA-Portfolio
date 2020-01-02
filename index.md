@@ -1,4 +1,4 @@
-# MOHAN - INSA - MS-IOT PORTFOLIO
+# MS-IOT PORTFOLIO
 
 The course delivered trainning to innovate, design, implement, and market a **smart system** starting from devices to business applications taking into account wider societal issues.
 
