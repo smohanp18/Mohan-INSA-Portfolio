@@ -7,7 +7,7 @@ This portfolio shares the learning outcomes & various projects delivered.
 Quick look on the projects & course outcomes
 
 # Course 1 
-For more details see [Course 1](https://github.com/smohanp18/msiot-portfolio/blob/master/course_1.md).
+For more details see [Course 1](./course1.md).
 
 ### Contact
 
