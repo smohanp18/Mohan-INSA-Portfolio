@@ -32,9 +32,9 @@ For more details see [Course 3](./course3.md).
 
 For more details see [Course 4](./course4.md).
 
-### Course 5 : COURSE NAME - MODULE NAME
+### Course 5 :  Middleware for the IoT - OM2M MiddleWare
 
----- To add : Some information -------
+In this course 'Internet of Things with oneM2M standard' I had the opportunity to explore OM2M standard for IoT middleware architecture by practicing the OM2M software originally developed at LAAS-CNRS by teams of researchers from the University of Toulouse (INSA, UPS).
 
 For more details see [Course 5](./course5.md).
 
