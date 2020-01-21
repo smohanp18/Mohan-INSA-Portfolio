@@ -25,7 +25,7 @@ From the OM2M architecture perspective, I would like to highlight at which layer
 
 OneM2M is an IoT/M2M standardization agency that has developed a common M2M Service Layer which can be readily embedded within various hardware and software, and relied upon to connect the myriad of devices in the field with IoT/M2M application servers worldwide. OneM2M’s common service layer (CSE) enables to develop IoT/M2M services independent of the underlying network, thereby, facilitates the deployment of vertical applications and heterogeneous devices. 
 <p align="center">
-<img src="./assets/course5/5_technical_part_1.PNG" class="inline"/>
+<img src="./assets/course5/5_technical_part_1.PNG" class="inline"/><br>
 <img src="./assets/course5/5_technical_part_2.PNG" class="inline"/>
 </p>
 
@@ -34,12 +34,14 @@ The Sensors/actuators ‘AE’ devices in the AE layer can be from any vendor an
 ### Skills analysis : 
 
 I followed the following approach/steps using the coursework from ‘activity’ and ‘TP’ materials to deploy the OM2M architecture. Please find the skills that I have gained in the ‘Outcome’ column. 
-
+<p align="center">
 <img align="center" src="./assets/course5/5_skill_analysis_1.PNG" class="inline"/>
-
+</p>
 Interact with the OM2M resources and how I manipulated them & retrieved data:
-
+<p align="center">
 <img align="center" src="./assets/course5/5_skill_analysis_2.PNG" class="inline"/>
+</p>
 
-
-<p align="right"> Go to Homepage [**BACK**](./index.md) </p>
+<p align="right"> 
+Go to Homepage [**BACK**](./index.md) 
+</p>
