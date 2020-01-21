@@ -43,6 +43,4 @@ Interact with the OM2M resources and how I manipulated them & retrieved data:
 </p>
 {: .text-justify}
 
-<p class="text-right">
-Go to Homepage [**BACK**](./index.md).
-</p>
+<p class="text-right"> Go to Homepage [**BACK**](./index.md) </p>
