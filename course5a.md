@@ -1,4 +1,4 @@
-<p align="right"> Go to Homepage [**BACK**](./index.md). </p> 
+{dir=rtl}Go to Homepage [**BACK**](./index.md). 
 
 ## Course Overview & Learning - Pr. Thierry Monteil  
 
