@@ -1,9 +1,10 @@
 
-p>. Go to homepage [BACK](./index.md)
+[HOME](./index.md)
 
 ## Course Overview & Learning - Pr. Thierry Monteil 
 
-### **Course 5** :  Middleware for the IoT || **Module A** : OM2M MiddleWare
+### Course 5 :  Middleware for the IoT
+### Module A : OM2M MiddleWare
 
 #### Descriptive Part :
 In this course 'Internet of Things with oneM2M standard' I had the opportunity to explore OM2M standard for IoT middleware architecture by practicing the OM2M software originally developed at LAAS-CNRS by teams of researchers from the University of Toulouse (INSA, UPS).
@@ -44,3 +45,5 @@ Interact with the OM2M resources and how I manipulated them & retrieved data:
 </p>
 
 
+
+Go to Homepage [HOME](./index.md)
