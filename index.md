@@ -8,19 +8,27 @@ This portfolio shares the learning outcomes achieved & various projects delivere
 
 Details of courses completed, exemptions and key-deliverables submitted is listed below.
 
-### Course 1 : MIDDLEWARE & SoA - MiddleWare
+### Course 1 : Smart Device
+## Module A : Micro-Controllers & OpenSource Hardware (MOSH)
+## Module B : Introduction to Sensors
+
+---- To add : Some information -------
+For more details see [Course 1 Module A](./course1a.md).
+For more details see [Course 1 Module B](./course1b.md).
+
+### Course 2 : Communication
+## Module A : Communication Protocols
+## Module B : Communication technologies
+## Module C : Communication Protocols - TP
+## Module D : Energy for Connected Objects
 
 ---- To add : Some information -------
 
-For more details see [Course 1](./course1.md).
+For more details see [Course 2 Module A](./course2a.md).
 
-### Course 2 : DATA & APPLICATION - Semantics
-
----- To add : Some information -------
-
-For more details see [Course 2](./course2.md).
-
-### Course 3 : SMART DEVICE - Micro-Controllers & OpenSource Hardware (MOSH)
+### Course 3 : UF Communications
+## Module A : Wireless Network Evolution 3G - 6G
+## Module B : Emerging Networks (SDN, LISP) 
 
 ---- To add : Some information -------
 
