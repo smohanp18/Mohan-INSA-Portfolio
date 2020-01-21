@@ -40,6 +40,7 @@ I attempted to build the ontology design based on the ‘triple’ for temperatu
 - SPARQL
 - Conversion of 3-star or 4-star to 5-star dataset that is more suitable for IoT applications
 
+#### Self Assessment:
 
 |Processing Semantic Data|Expected Skills|Self-Assessment|
 |------------|------------|-----------|
