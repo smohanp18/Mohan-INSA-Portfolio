@@ -22,8 +22,8 @@ This table gives a quick overview of the courses and their corresponding modules
 |c4mB|Service Architecture|Software Engineering|||
 |c5mA|Middleware for the IoT|OM2M MiddleWare|[c5mA_report](./assets/course5/course_5_1.pdf)|[c5mA_skills](./course5a.md)|
 |c6mA|Cloud|Cloud and Autonomic Computing|||
-|c7mA|Data and Application|Semantics|||
-|c7mB|Data and Application|Data Processing & Big data|||
+|c7mA|Data and Application|Semantics|[c7mA_report](./assets/course7/course_7_1.pdf)|[c7mA_skills](./course7a.md)|
+|c7mB|Data and Application|Data Processing & Big data|[c7mB_report](./assets/course7/course_7_2.pdf)[c7mB_r_code](./assets/course7/course_7_2.pdf)[c7mB_dataset](./assets/course7/course_7_2.pdf)|[c7mB_skills](./course7b.md)|
 |c8mA|Company Project|Converged IoT device - mangOH Multiprotocols|||
 
 ## Courses Exempted due to Credits Transfer: 
