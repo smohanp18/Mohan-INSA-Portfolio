@@ -41,5 +41,7 @@ Interact with the OM2M resources and how I manipulated them & retrieved data:
 <p align="center">
 <img align="center" src="./assets/course5/5_skill_analysis_2.PNG" class="inline"/>
 </p>
+{: .text-justify}
 
-                                                                                          Go to Homepage [**BACK**](./index.md).</p>
+Go to Homepage [**BACK**](./index.md).
+{: .text-right}
