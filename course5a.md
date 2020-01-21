@@ -1,4 +1,4 @@
-{dir=rtl}Go to Homepage [**BACK**](./index.md). 
+<div style="text-align:center">Go to Homepage [**BACK**](./index.md).</div> 
 
 ## Course Overview & Learning - Pr. Thierry Monteil  
 
