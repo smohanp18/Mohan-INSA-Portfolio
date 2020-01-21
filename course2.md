@@ -79,7 +79,7 @@ Below, please find the skills that I acquired,
 - Scanning the market for emerging technologies, choosing a technology, investigate on its past and its future evolution with respect to the industry, use-cases, standardization/certification bodies (3GPP, ITU, IEEE, ETSI etc) 
 - Conducting estimation of power & energy consumption of battery and recommend a proposal for optimal transmission strategies for IoT applications
 
-
+#### Self Assessment:
 
 |Communication and Protocols|Skill-level expected|Self-assessment|
 |---------------|--------------|---------------|
