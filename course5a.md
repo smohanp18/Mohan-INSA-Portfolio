@@ -1,4 +1,4 @@
-<p style="text-align: center> Go to Homepage [**BACK**](./index.md).</p>
+
 
 ## Course Overview & Learning - Pr. Thierry Monteil  
 
@@ -23,6 +23,7 @@ While practicing the OM2M software, I tried to explore more in the directions as
 From the OM2M architecture perspective, I would like to highlight at which layer I was focussing and what I learnt. 
 
 OneM2M is an IoT/M2M standardization agency that has developed a common M2M Service Layer which can be readily embedded within various hardware and software, and relied upon to connect the myriad of devices in the field with IoT/M2M application servers worldwide. OneM2M’s common service layer (CSE) enables to develop IoT/M2M services independent of the underlying network, thereby, facilitates the deployment of vertical applications and heterogeneous devices. 
+
 <p align="center">
 <img src="./assets/course5/5_technical_part_1.PNG" class="inline"/><br>
 <img src="./assets/course5/5_technical_part_2.PNG" class="inline"/>
@@ -41,6 +42,4 @@ Interact with the OM2M resources and how I manipulated them & retrieved data:
 <img align="center" src="./assets/course5/5_skill_analysis_2.PNG" class="inline"/>
 </p>
 
-<p align="right"> 
-Go to Homepage [**BACK**](./index.md) 
-</p>
+<p style="text-align: right> Go to Homepage [**BACK**](./index.md).</p>
