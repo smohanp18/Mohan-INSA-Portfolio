@@ -1,5 +1,5 @@
 
-## Course Overview & Learning - Pr. Thierry Monteil                                          ###### Go to Homepage [**HOME**](./index.md)
+## Course Overview & Learning - Pr. Thierry Monteil 
 
 ### **Course 5** :  Middleware for the IoT || **Module A** : OM2M MiddleWare
 
@@ -40,5 +40,7 @@ Interact with the OM2M resources and how I manipulated them & retrieved data:
 <p align="center">
 <img align="center" src="./assets/course5/5_skill_analysis_2.PNG" class="inline"/>
 </p>
- 
-                                                                                   ###### Go to Homepage [**HOME**](./index.md)
+
+<p align="center">
+<img align="center" src="./index.md" alt="HOME" class="inline"/>
+</p>
