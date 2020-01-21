@@ -21,7 +21,8 @@ This table gives a quick overview of the courses and their corresponding modules
 |c6mA|Cloud|Cloud and Autonomic Computing|||
 |c7mA|Data and Application|Semantics|[c7mA_report](./assets/course7/course_7_1.pdf)|[c7mA_skills](./course7a.md)|
 |c7mB|Data and Application|Data Processing & Big data|[c7mB_report](./assets/course7/course_7_2.pdf)<br>[c7mB_r_code](./assets/course7/global-tem.Rmd)<br>[c7mB_dataset](./assets/course7/climate-change-earth-surface-temperature-data.zip)|[c7mB_skills](./course7b.md)|
-|c8mA|Company Project|Converged IoT device - mangOH Multiprotocols|||
+|c8mA|Security in IoT networks|No Reports||
+|c9mA|Company Project|Converged IoT device - mangOH Multiprotocols|[c9mA_report](./assets/course9/course_9_1.pdf)|[c9mA_skills](./course9a.md)|
 
 ## Courses Exempted due to Credits Transfer: 
 
