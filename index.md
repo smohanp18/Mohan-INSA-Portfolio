@@ -8,25 +8,14 @@ This portfolio shares the learning outcomes achieved & various projects delivere
 
 Details of courses completed, exemptions and key-deliverables submitted is listed below.
 
-|CourseNo|CourseName|ModuleName|Description|LinkToDetails|
-|------|------|------|------|-------|
-|1|Smart Device|Module A : Micro-Controllers & OpenSource Hardware (MOSH)|TOBEADDEDDDDDDDDD|[Course 1 Module A](./course1a.md)|
-|1|Smart Device|Module B : Introduction to Sensors|TOBEADDEDDDDDDDDD|[Course 1 Module B](./course1b.md)|
-
-## Course 2 : Communication
-**Module A : Communication Protocols**
-
-For more details see [Course 2 Module A](./course2a.md).
-
-**Module B : Communication technologies**
-
-For more details see [Course 2 Module A](./course2b.md).
-
-**Module C : Communication Protocols - TP**
-
-For more details see [Course 2 Module A](./course2c.md).
-
-**Module D : Energy for Connected Objects**
+|CourseNo|CourseName(C)|ModuleName(M)|LinkToDetails|
+|------|------|------|------|
+|1|Smart Device|Module A : Micro-Controllers & OpenSource Hardware (MOSH)|[C1MA](./course1a.md)|
+|1|Smart Device|Module B : Introduction to Sensors|[C1MB](./course1b.md)|
+|2|Communication|Module A : Communication Protocols|[C2MA](./course2a.md)|
+|2|Communication|Module B : Communication technologies|[C2MB](./course2b.md)|
+|2|Communication|Module C : Communication Protocols - TP|[C2MC](./course2c.md)|
+|2|Communication|Module D : Energy for Connected Objects|No Report|
 
 
 ### Course 3 : UF Communications
