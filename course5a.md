@@ -41,17 +41,4 @@ Interact with the OM2M resources and how I manipulated them & retrieved data:
 <img src="./assets/course5/5_skill_analysis_2.PNG" class="inline"/>
 
 
-## Key Deliverables Delivered - Individual Only
-
-- OM2M Project Report 
-
-### Link to Deliverables
-
-- OM2M Report [project_report](./assets/course5/course_5_1.pdf).
-
 Go to Homepage [**BACK**](./index.md).
-
-### Contact
-
-Email - moshdfsdf@insa.fr
-Contact - +33523523522342342
