@@ -8,13 +8,10 @@ This portfolio shares the learning outcomes achieved & various projects delivere
 
 Details of courses completed, exemptions and key-deliverables submitted is listed below.
 
-### Course 1 : Smart Device
-|Module Name|Description|Link to Details|
-|------|------|-------|
-|**Module A : Micro-Controllers & OpenSource Hardware (MOSH)**|TOBEADDEDDDDDDDDD|[Course 1 Module A](./course1a.md)|
-|------|------|-------|
-|**Module B : Introduction to Sensors**|TOBEADDEDDDDDDDDD|[Course 1 Module B](./course1b.md)|
-|------|------|-------|
+|CourseNo|CourseName|ModuleName|Description|LinkToDetails|
+|------|------|------|------|-------|
+|1|Smart Device|Module A : Micro-Controllers & OpenSource Hardware (MOSH)|TOBEADDEDDDDDDDDD|[Course 1 Module A](./course1a.md)|
+|1|Smart Device|Module B : Introduction to Sensors|TOBEADDEDDDDDDDDD|[Course 1 Module B](./course1b.md)|
 
 ## Course 2 : Communication
 **Module A : Communication Protocols**
