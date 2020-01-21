@@ -1,0 +1,170 @@
+# ISS Big Data Analytics Report
+
+## Dataset : “Climate Change: Earth Surface Temperature Data”
+
+**Importing Libraries and setting working directory**
+```{r, message = F, warning=F}
+library(data.table)
+library(ggplot2)
+library(ggfortify)
+library(dplyr)
+library(reshape2)
+library(viridis)
+
+#setwd("~/Desktop/class/9/big_data/input")
+
+```
+
+**1. Loading temprature data by country **
+**2. Tuning the date field to the required format**
+**3. Removing the NA's **
+
+```{r, message = F, warning=F}
+
+world_temp = fread("climate-change-earth-surface-temperature-data/GlobalLandTemperaturesByCountry.csv")
+world_temp$date = as.Date(world_temp$dt, "%Y-%m-%d")
+world_temp$month = month(world_temp$date)
+world_temp$year = year(world_temp$date)
+world_temp = world_temp[!is.na(AverageTemperature),]
+head(world_temp)
+
+```
+
+**1. Exploring the temperature by month & year - to cross verify across seasons **
+**2. Selecting random set of countries for analysis**
+
+```{r}
+# extracting world's average temperature month-wise & year-wise
+world_temp_2 = world_temp %>%
+  group_by(year, month, Country, date) %>%
+  summarise(avg_Temp = mean(AverageTemperature))
+
+print(world_temp_2)
+
+Main_country <- c("China", "United States", "France", "Japan","Germany", "India","United Kingdom", "Italy", "Brazil", "Canada")
+Main_temp <- world_temp_2 %>% filter(Country %in% Main_country)
+print(Main_temp)
+```
+
+**Plotting multiple graphs to answer questions to solve our hypothesis**
+
+**Question 1: How is the temperature variation of the selected countries during a year?**
+
+```{R}
+ggplot(Main_temp, aes(x = month, y = avg_Temp, color= Country, fill=Country)) +geom_smooth()+labs(    
+    x = "Month",    
+    y = "Average Temperature",    
+    title = "Trend of temperature during the year",    
+    caption = "Temperature change analysis"  )
+
+```
+
+**Question 2: How is the change in temperature of the selected countries during the last 300 years?**
+```{R}
+
+ggplot(Main_temp, aes(x = year, y =avg_Temp, color= Country, fill=Country)) +geom_smooth()+labs(    
+    x = "Year",    
+    y = "Average Temperature",    
+    title = "Changes in temperature over the past two hundred years",    
+    caption = "Temperature change analysis"  )
+```
+
+**Question 3: How can we relate the trend in temperature change of those selected countries to the global temperature change?**
+
+```{R}
+
+ggplot(Main_temp, aes(x = year, y = avg_Temp))+geom_smooth()+labs(    
+    x = "Year",    
+    y = "Average Temperature",    
+    title = "Temperature Trend of The World",    
+    caption = "Temperature change analysis"  )
+
+
+ff <- filter(Main_temp, Country %in% c("Japan"))
+ggplot(ff,  aes(x = year, y=avg_Temp, color= Country)) + geom_smooth(method="loess")+labs(    
+    x = "Year",    
+    y = "Average Temperature",    
+    title = "Temperature Trend of Japan",    
+    caption = "Temperature change analysis"  )
+
+```
+
+**Question 4: What is the rate of change in global temperature based on data from the last few decades? **
+
+
+```{R}
+print("calculating")
+country_temp = world_temp %>%   #将这一步的结果直接作为下一步的第一个参数
+  group_by(Country, year) %>%
+  summarise(med_Temp = median(AverageTemperature)) %>%
+  filter(year == 1950 | year == 2013)
+print(country_temp)
+# converting data to wide format
+print("converting")
+country_temp_wide = dcast(country_temp, formula = Country ~ year)
+
+# denoting a country with '1' if the temperature increased during 1950-2013 and '0' otherwise
+print("denoting")
+country_temp_wide$temp_incrs_flag = ifelse(country_temp_wide$`2013` > country_temp_wide$`1950`,1,0)
+country_temp_wide$change=country_temp_wide$`2013`-country_temp_wide$`1950`
+print(country_temp_wide)
+
+
+### add a map showing countries with increase and decrease in temp ###
+print("add")
+map = map_data("world") # map_data() is a ggplot function
+unique_country_temp = data.frame(region = country_temp_wide$Country, temp_increased = country_temp_wide$temp_incrs_flag, change=country_temp_wide$change)
+
+# fetching desired data to 'map' dataframe
+print("fetching")
+map = left_join(map, unique_country_temp) 
+
+missed_countries = c("Antigua","Bosnia and Herzegovina","Republic of Congo",
+                     "Curacao", "Falkland Islands", "UK","Heard Island",
+                     "Saint Kitts","Myanmar", "Bonaire", "South Sudan", "South Georgia",
+                     "Sao Tome and Principe", "Timor-Leste", "Tobago", "Saint Vincent",
+                     "French Southern and Antarctic Lands", "Barbuda", "Saint Barthelemy",
+                     "Democratic Republic of the Congo","Guinea-Bissau",
+                     "Palestine","Saint Pierre and Miquelon", "Turks and Caicos Islands",
+                     "Trinidad","USA")
+
+print(map)
+
+map$temp_increased = ifelse(map$region %in% missed_countries, 0, map$temp_increased)
+map = map[!is.na(map$temp_increased),]
+
+```
+
+```{R}
+# to draw the pic of World temperature change from 1950 to 2013
+ggplot(map)+geom_polygon(aes(x = long, y = lat, group = group, fill = map$change)) + 
+scale_fill_gradient2(limits=c(-10,10),low = 'blue',  high = 'red') +labs(    
+    title = "World temperature change from 1950 to 2013",    
+    caption = "Temperature change analysis"  )
+
+```
+
+**Using Sub-dataset - GlobalTemperatures to verify the growing temperature trends""**
+
+```{r, message = F, warning=F}
+
+data_global = fread("climate-change-earth-surface-temperature-data/GlobalTemperatures.csv")
+data_global$year <- as.Date(data_global$dt,format="%Y")
+
+#converting the dt variable to date
+data_global$dt<-as.Date(data_global$dt,format="YYYY")
+tail(data_global)
+
+# Filtering the data with average temperate above 6.5 and summarising the data without NA's
+data_world <- data_global%>%group_by(year)%>%summarize(Avg_Temp=mean(LandAverageTemperature,na.rm=T))%>%filter(Avg_Temp>6.5)
+data_world$year <- as.numeric(data_world$year)
+
+#Printing the plot to visualise the increase in global average temperature
+ggplot(data_world, aes(x=year, y=Avg_Temp,color=Avg_Temp))+
+  geom_point()+
+  scale_color_viridis(option = "D")+
+  ggtitle("Increasing Global Average Temperature - Land")+
+  scale_x_discrete(label="")
+
+
+```
