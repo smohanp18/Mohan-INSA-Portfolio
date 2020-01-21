@@ -1,5 +1,5 @@
 
-<img src="./index.md" class="align-right" alt="">
+<img src="./index.md" class="align-right" alt="HOME">./index.md
 
 ## Course Overview & Learning - Pr. Thierry Monteil 
 
