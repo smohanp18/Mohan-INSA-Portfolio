@@ -24,10 +24,10 @@ While practicing the OM2M software, I tried to explore more in the directions as
 From the OM2M architecture perspective, I would like to highlight at which layer I was focussing and what I learnt. 
 
 OneM2M is an IoT/M2M standardization agency that has developed a common M2M Service Layer which can be readily embedded within various hardware and software, and relied upon to connect the myriad of devices in the field with IoT/M2M application servers worldwide. OneM2M’s common service layer (CSE) enables to develop IoT/M2M services independent of the underlying network, thereby, facilitates the deployment of vertical applications and heterogeneous devices. 
-
-<img align="center" src="./assets/course5/5_technical_part_1.PNG" class="inline"/>
-<img align="center" src="./assets/course5/5_technical_part_2.PNG" class="inline"/>
-
+<p align="center">
+<img src="./assets/course5/5_technical_part_1.PNG" class="inline"/>
+<img src="./assets/course5/5_technical_part_2.PNG" class="inline"/>
+</p>
 
 The Sensors/actuators ‘AE’ devices in the AE layer can be from any vendor and can be made for any vertical application domain. The communication network protocols in the Network layer can be any technology. Still, the OneM2M’s CSE layer helps to connect the Sensors/actuators to the IoT/M2M application servers; And, thus the data retreived from sensors/actuators of any vertical application can be transported to the cloud.
 
