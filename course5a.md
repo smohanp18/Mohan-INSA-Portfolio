@@ -1,4 +1,4 @@
-######   *** *** *** *** *** *** Go to Homepage [**HOME**](./index.md) *** *** *** *** *** ***
+######                                             *** *** *** *** *** *** Go to Homepage [**HOME**](./index.md) *** *** *** *** *** ***
 
 ## Course Overview & Learning - Pr. Thierry Monteil  
 
@@ -42,4 +42,4 @@ Interact with the OM2M resources and how I manipulated them & retrieved data:
 <img align="center" src="./assets/course5/5_skill_analysis_2.PNG" class="inline"/>
 </p>
 
-######   *** *** *** *** *** *** Go to Homepage [**HOME**](./index.md) *** *** *** *** *** ***
+######                                             *** *** *** *** *** *** Go to Homepage [**HOME**](./index.md) *** *** *** *** *** ***
