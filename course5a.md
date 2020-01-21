@@ -1,5 +1,5 @@
 
-<img src="./index.md" class="align-right" alt="HOME">./index.md
+p>. Go to homepage [BACK](./index.md)
 
 ## Course Overview & Learning - Pr. Thierry Monteil 
 
