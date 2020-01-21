@@ -8,48 +8,23 @@ This portfolio shares the learning outcomes achieved & various projects delivere
 
 Details of courses completed, exemptions and key-deliverables submitted is listed below.
 
-|CourseNo|CourseName(C)|ModuleName(M)|LinkToDetails|
-|------|------|------|------|
-|1|Smart Device|Module A : Micro-Controllers & OpenSource Hardware (MOSH)|[C1MA](./course1a.md)|
-|1|Smart Device|Module B : Introduction to Sensors|[C1MB](./course1b.md)|
-|2|Communication|Module A : Communication Protocols|[C2MA](./course2a.md)|
-|2|Communication|Module B : Communication technologies|[C2MB](./course2b.md)|
-|2|Communication|Module C : Communication Protocols - TP|[C2MC](./course2c.md)|
-|2|Communication|Module D : Energy for Connected Objects|No Report|
-
-
-### Course 3 : UF Communications
-## Module A : Wireless Network Evolution 3G - 6G
-## Module B : Emerging Networks (SDN, LISP) 
-
----- To add : Some information -------
-
-For more details see [Course 3](./course3.md).
-
-### Course 4 : COURSE NAME - MODULE NAME
-
----- To add : Some information -------
-
-For more details see [Course 4](./course4.md).
-
-### Course 5 :  Middleware for the IoT - OM2M MiddleWare
-
-In this course 'Internet of Things with oneM2M standard' I had the opportunity to explore OM2M standard for IoT middleware architecture by practicing the OM2M software originally developed at LAAS-CNRS by teams of researchers from the University of Toulouse (INSA, UPS).
-
-For more details see [Course 5](./course5.md).
-
-### Course 6 : COURSE NAME - MODULE NAME
-
----- To add : Some information -------
-
-For more details see [Course 6](./course6.md).
-
-### Course 7 : COURSE NAME - MODULE NAME
-
----- To add : Some information -------
-
-For more details see [Course 7](./course7.md).
-
+|C.No|CourseName(C)|M.No|ModuleName(M)|LinkToDetails|
+|------|------|------|------|------|
+|1|Smart Device|A|Micro-Controllers & OpenSource Hardware (MOSH)|[C1MA](./course1a.md)|
+|1|Smart Device|B|Introduction to Sensors|[C1MB](./course1b.md)|
+|2|Communication|A|Communication Protocols|[C2MA](./course2a.md)|
+|2|Communication|B|Communication technologies|[C2MB](./course2b.md)|
+|2|Communication|C|Communication Protocols - TP|[C2MC](./course2c.md)|
+|2|Communication|D|Energy for Connected Objects|No Report|
+|3|UF Communications|A|Wireless Network Evolution 3G - 6G|[C3MA](./course3a.md)|
+|3|UF Communications|B|Emerging Networks (SDN, LISP)|[C3MB](./course3b.md)|
+|4|Service Architecture|A|SoA|[C4MA](./course4a.md)|
+|4|Service Architecture|B|Software Engineering|[C4MB](./course4b.md)|
+|5|Middleware for the IoT|A|OM2M MiddleWare|[C5MA](./course5a.md)|
+|6|Cloud|A|Cloud and Autonomic Computing|[C6MA](./course6a.md)|
+|7|Data and Application|A|Semantics|[C7MA](./course7a.md)|
+|7|Data and Application|B|Data Processing & Big data|[C7MB](./course7b.md)|
+|8|Company Project|A|Converged IoT device - mangOH Multiprotocols|[C8MA](./course8a.md)|
 
 ## Courses Exempted due to Credits Transfer: 
 
