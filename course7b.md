@@ -32,6 +32,8 @@ In the project, I followed a structured approach in exploring the data and analy
 - Learning from data analysis results and using them to further explore the data and answer more difficult questions
 
 
+#### Self Assessment:
+
 |Data Processing and Analysis: Big Data|Skill-level expected|Self-assessment|
 |----------|---------|-----------|
 |Know how to explore and represent data sets|2|2|
