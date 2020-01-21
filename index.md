@@ -12,7 +12,7 @@ This table gives a quick overview of the courses and their corresponding modules
 |------|------|------|------|-----|
 |c1mA|Smart Device|Micro-Controllers & OpenSource Hardware (MOSH)|||
 |c1mB|Smart Device|Introduction to Sensors|||
-|c2mA<br>c2mB<br>c2mC|Communication|Communication Protocols<br>Communication technologies<br>Communication Protocols - TP||[c2_skills](./course2.md)|
+|c2mA<br>c2mB<br>c2mC|Communication|Communication Protocols<br>Communication technologies<br>Communication Protocols - TP|[c2mA_group_report](./assets/course2/course_2_1_2.pdf)<br>[c2mA_pptx](./assets/course2/course_2_1_1.pdf)<br>[c2mA_self_report](./assets/course2/course_2_2.pdf)<br>[c2mB_report](./assets/course2/course_2_3.pdf)<br>[c2mC_report](./assets/course2/course_2_4.pdf)|[c2_skills](./course2.md)|
 |c3mA|UF Communications|Wireless Network Evolution 3G - 6G|||
 |c3mB|UF Communications|Emerging Networks (SDN, LISP)|||
 |c4mA|Service Architecture|SoA|||
