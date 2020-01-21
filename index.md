@@ -8,7 +8,7 @@ This portfolio shares the learning outcomes achieved & various projects delivere
 
 This table gives a quick overview of the courses and their corresponding modules. All the deliverables submitted are also added in the table. For more detail on the skills acquired & the gist of technical learning aspects please click on the skill details link.
 
-|Id||Course Name|Module Name|Deliverables Submitted|Skills & Learnings acquired
+|Id|Course Name|Module Name|Deliverables Submitted|Skills & Learnings acquired
 |------|------|------|------|-----|
 |c1mA||Smart Device|Micro-Controllers & OpenSource Hardware (MOSH)|[c1mA_report](./report.pdf)|[c1mA_skills](./course1a.md)|
 |c1mB||Smart Device|Introduction to Sensors||[c1mB_skills](./course1b.md)|
