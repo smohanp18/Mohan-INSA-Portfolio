@@ -8,14 +8,11 @@ This portfolio shares the learning outcomes achieved & various projects delivere
 
 This table gives a quick overview of the courses and their corresponding modules. All the deliverables submitted are also added in the table. For more detail on the skills acquired & the gist of technical learning aspects please click on the skill details link.
 
-|Id|Course Name|Module Name|Deliverables Submitted|Skills & Learnings acquired
+|Id|Course Name|Module Name|Deliverables Submitted|Skills & Learnings acquired|
 |------|------|------|------|-----|
 |c1mA|Smart Device|Micro-Controllers & OpenSource Hardware (MOSH)|||
 |c1mB|Smart Device|Introduction to Sensors|||
-|c2mA|Communication|Communication Protocols|||
-|c2mB|Communication|Communication technologies|||
-|c2mC|Communication|Communication Protocols - TP|||
-|c2mD|Communication|Energy for Connected Objects|||
+|c2mA<br>c2mB<br>c2mC|Communication|Communication Protocols<br>Communication technologies<br>Communication Protocols - TP||[c2_skills](./course2.md)|
 |c3mA|UF Communications|Wireless Network Evolution 3G - 6G|||
 |c3mB|UF Communications|Emerging Networks (SDN, LISP)|||
 |c4mA|Service Architecture|SoA|||
