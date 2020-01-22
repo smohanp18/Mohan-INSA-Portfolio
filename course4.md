@@ -3,7 +3,7 @@
 
 ## Course Overview & Learning - Pr. Nawal Guermouche
 
-### Course 5 : Service Architecture
+### Course 4 : Service Architecture
 ### Module A & B : SoA and Software Engineering
 
 #### Descriptive Part :
