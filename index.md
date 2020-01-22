@@ -17,7 +17,7 @@ This table gives a quick overview of the courses and their corresponding modules
 |c3mB|UF Communications|Emerging Networks (SDN, LISP)|||
 |c4mA<br>c4mB|Service Architecture|SoA<br>Software Engineering|[c4_report](./assets/course4/course_4_1.pdf)|[c4_skills](./course4.md)|
 |c5mA|Middleware for the IoT|OM2M MiddleWare|[c5mA_report](./assets/course5/course_5_1.pdf)|[c5mA_skills](./course5a.md)|
-|c6mA|Cloud|Cloud and Autonomic Computing|||
+|c6mA|Cloud|Cloud and Autonomic Computing|No report|[c6mA_skills](./course6.md)|
 |c7mA|Data and Application|Semantics|[c7mA_report](./assets/course7/course_7_1.pdf)|[c7mA_skills](./course7a.md)|
 |c7mB|Data and Application|Data Processing & Big data|[c7mB_report](./assets/course7/course_7_2.pdf)<br>[c7mB_r_code](./assets/course7/global-tem.Rmd)<br>[c7mB_dataset](./assets/course7/climate-change-earth-surface-temperature-data.zip)|[c7mB_skills](./course7b.md)|
 |c8mA|Security in IoT networks|No Reports||
