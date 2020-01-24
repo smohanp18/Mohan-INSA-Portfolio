@@ -11,7 +11,7 @@ This table gives a quick overview of the courses and their corresponding modules
 |Id|Course Name|Module Name|Deliverables Submitted|Skills Analysis|
 |------|------|------|------|-----|
 |course_1|Smart Device<br>(Jeremie GRISOLIA)|- Micro-Controllers & OpenSource Hardware (MOSH)<br>- Introduction to Sensors|[deliverable_1](./assets/course1/Datasheet - gas sensor.pdf)|[c1_skills](./course1.md)|
-|course_2|Communication<br>(Daniela, Alexandre, Slim Abdellatif)|- Communication Protocols<br>- Communication technologies<br>- Communication Protocols - TP|[deliverable_1](./assets/course2/course_2_1_2.pdf)<br>[deliverable_2](./assets/course2/course_2_1_1.pdf)<br>[deliverable_3](./assets/course2/course_2_2.pdf)<br>[deliverable_4](./assets/course2/course_2_3.pdf)<br>[deliverable_5](./assets/course2/course_2_4.pdf)|[c2_skills](./course2.md)|
+|course_2|Communication<br>(Daniela, Alexandre, Slim Abdellatif)|- Communication Protocols<br>- Communication technologies<br>- Communication Protocols - TP|[deliverable_1](./assets/course2/course_2_1_2_Report.pdf)<br>[deliverable_2](./assets/course2/course_2_1_1_Presentation.pdf)<br>[deliverable_3](./assets/course2/course_2_2.pdf)<br>[deliverable_4](./assets/course2/course_2_3.pdf)<br>[deliverable_5](./assets/course2/course_2_4.pdf)|[c2_skills](./course2.md)|
 |course_3|Emerging Networks and Wireless Sensor Networks(Slim)|Emerging Networks & protocols for Wirelessly connected things|Reports Not Required|[c3_skills](./course3.md)|
 |course_4|Service Architecture(Nawal Guermouche)|- SoA<br>- Software Engineering|[deliverable_1](./assets/course4/course_4_1.pdf)|[c4_skills](./course4.md)|
 |course_5|Middleware for the IoT(Monteil)|OM2M MiddleWare|[deliverable_1](./assets/course5/course_5_1.pdf)|[c5_skills](./course5a.md)|
