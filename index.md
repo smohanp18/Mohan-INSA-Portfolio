@@ -8,19 +8,16 @@ This portfolio shares the learning outcomes achieved & various projects delivere
 
 This table gives a quick overview of the courses and their corresponding modules. All the deliverables submitted are also added in the table. For more detail on the skills acquired & the gist of technical learning aspects please click on the skill details link.
 
-|Id|Course Name|Module Name|Deliverables Submitted|Skills & Learnings acquired|
+|Id|Course Name|Module Name|Deliverables Submitted|Skills Analysis|
 |------|------|------|------|-----|
-|c1mA|Smart Device|Micro-Controllers & OpenSource Hardware (MOSH)|[c1mA_Datasheet](./assets/course1/Datasheet - gas sensor.pdf)|[c1_skills](./course1.md)|
-|c1mB|Smart Device|Introduction to Sensors|||
-|c2mA<br>c2mB<br>c2mC|Communication|Communication Protocols<br>Communication technologies<br>Communication Protocols - TP|[c2mA_group_report](./assets/course2/course_2_1_2.pdf)<br>[c2mA_pptx](./assets/course2/course_2_1_1.pdf)<br>[c2mA_self_report](./assets/course2/course_2_2.pdf)<br>[c2mB_report](./assets/course2/course_2_3.pdf)<br>[c2mC_report](./assets/course2/course_2_4.pdf)|[c2_skills](./course2.md)|
-|c3mA<br>c3mB|UF Communications|Wireless Network Evolution 3G - 6G<br>Emerging Networks (SDN, LISP)|No Reports|[c3_skills](./course3.md)|
-|c4mA<br>c4mB|Service Architecture|SoA<br>Software Engineering|[c4_report](./assets/course4/course_4_1.pdf)|[c4_skills](./course4.md)|
-|c5mA|Middleware for the IoT|OM2M MiddleWare|[c5mA_report](./assets/course5/course_5_1.pdf)|[c5mA_skills](./course5a.md)|
-|c6mA|Cloud|Cloud and Autonomic Computing|No report|[c6mA_skills](./course6.md)|
-|c7mA|Data and Application|Semantics|[c7mA_report](./assets/course7/course_7_1.pdf)|[c7mA_skills](./course7a.md)|
-|c7mB|Data and Application|Data Processing & Big data|[c7mB_report](./assets/course7/course_7_2.pdf)<br>[c7mB_r_code](./assets/course7/global-tem.Rmd)<br>[c7mB_dataset](./assets/course7/climate-change-earth-surface-temperature-data.zip)|[c7mB_skills](./course7b.md)|
-|c8mA|Security in IoT networks|No Reports||
-|c9mA|Company Project|Converged IoT device - mangOH Multiprotocols|[c9mA_report](./assets/course9/course_9_1.pdf)|[c9mA_skills](./course9a.md)|
+|course_1|Smart Device<br>(Jeremie GRISOLIA)|Micro-Controllers & OpenSource Hardware (MOSH)<br>Introduction to Sensors|[deliverable_1](./assets/course1/Datasheet - gas sensor.pdf)|[c1_skills](./course1.md)|
+|course_2|Communication<br>(Daniela, Alexandre, Slim Abdellatif)|Communication Protocols<br>Communication technologies<br>Communication Protocols - TP|[deliverable_1](./assets/course2/course_2_1_2.pdf)<br>[deliverable_2](./assets/course2/course_2_1_1.pdf)<br>[deliverable_3](./assets/course2/course_2_2.pdf)<br>[deliverable_4](./assets/course2/course_2_3.pdf)<br>[deliverable_5](./assets/course2/course_2_4.pdf)|[c2_skills](./course2.md)|
+|course_3|UF Communications|Wireless Network Evolution 3G - 6G<br>Emerging Networks (SDN, LISP)|No Reports|[c3_skills](./course3.md)|
+|course_4|Service Architecture|SoA<br>Software Engineering|[deliverable_1](./assets/course4/course_4_1.pdf)|[c4_skills](./course4.md)|
+|course_5|Middleware for the IoT|OM2M MiddleWare|[deliverable_1](./assets/course5/course_5_1.pdf)|[c5_skills](./course5a.md)|
+|course_6|Cloud|Cloud and Autonomic Computing|No report|[c6_skills](./course6.md)|
+|course_7|Data and Application|Semantics<br>Data Processing & Big data|[deliverable_1](./assets/course7/course_7_1.pdf)<br>[deliverable_2](./assets/course7/course_7_2.pdf)<br>[deliverable_3](./assets/course7/global-tem.Rmd)<br>[deliverable_4](./assets/course7/climate-change-earth-surface-temperature-data.zip)|[c7_semantics_skills](./course7a.md)<br>[c7_bigdata_skills](./course7b.md)|
+|course_8|Company Project|Converged IoT device - mangOH Multiprotocols|[deliverable_1](./assets/course9/course_9_1.pdf)|[c8_skills](./course9a.md)|
 
 ## Courses Exempted due to Credits Transfer: 
 
