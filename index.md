@@ -19,13 +19,6 @@ This table gives a quick overview of the courses and their corresponding modules
 |course_7|Data and Application(Nicolas Seydoux, Gills Treden)|- Semantics<br>- Data Processing & Big data|[deliverable_1](./assets/course7/course_7_1.pdf)<br>[deliverable_2](./assets/course7/course_7_2.pdf)<br>[deliverable_3](./assets/course7/global-tem.Rmd)<br>[deliverable_4](./assets/course7/climate-change-earth-surface-temperature-data.zip)|[c7_semantics_skills](./course7a.md)<br>[c7_bigdata_skills](./course7b.md)|
 |course_8|Innovative Project|Converged IoT device - mangOH Multiprotocols|[deliverable_1](./assets/course9/course_9_1.pdf)|[c8_skills](./course9a.md)|
 
-## Courses Exempted due to Credits Transfer: 
-
-- Course name 1 
-- Course name 2 
-
 
 ### Contact
-
-Email - moshdfsdf@insa.fr
-Contact - +33523523522342342
+MohanPrabhu Selvaraj - +33646597401
