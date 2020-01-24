@@ -1,26 +1,83 @@
-## Course 1 : MIDDLEWARE & SoA - MiddleWare
 
-The course focuses .....
+[HOME](./index.md)
 
-## Course Overview & Learning
+## Course Overview & Learning 
 
-Details of courses, learning gist...
+### Course 1 : Smart Device - Pr. Jeremie GRISOLIA
+### Module A : Microcontrollers and Open Source Hardware + Sensors
 
-## Key Deliverables Delivered
+### Group Members
+Xuantang, Zhe, Huijie, and me
+### Git Hub link
+https://github.com/MOSH-Insa-Toulouse/2019_MOSH_B1_XUANTANG_HUIJIE_ZHE_Mohan
 
-- Presentation 
-- TP solved material
-- Project Report 
 
-### Link to Deliverables
+#### Descriptive Part :
+In the Micro-Controllers and Open Source hardware, for the first time, I experienced to work with such small size arduino micro-controller boards. I did the TP exercises with the following objectives for learning and skill development on implementation of an Open source hardware 
+- Use the TP’s from TP-1 to TP-4 to understand the hardware and software components in an Arduino board and how they can be used together to make simple applications using displays, motors, sensors, Nunchuk, touch-screen
+- Use the TP-5 and follow the green track and blue track 
+1. for making an IoT application - simple LoRA communication pair
+2. for integrating the ‘gas sensor’ data acquisition system with the ‘LoRA pair’ and making a small prototype
 
-- OM2M Report [project_report](./om2m_report.pdf).
-- others...
-- others ...
+#### Technical Part : 
 
-Go to Homepage [**BACK**](./index.md).
+<p align="center">
+<img src="./assets/course1/1_technical_part_1.PNG" class="inline"/>
+</p>
 
-### Contact
+I started exploring the Arduino hardware and its various interfaces that are found in Figure-1. 
 
-Email - moshdfsdf@insa.fr
-Contact - +33523523522342342
+- As I am from a business studies background, I stayed with a main focus of understanding on how to do TP-5 green & blue track. For the same, I took help from my group members. 
+- From TP-1 to TP-4, I learnt to load Arduino software to the Arduino board and do simple applications. 
+- From the group, I learnt of doing the green track whereby the LoRA communication pair is created using the Arduino Uno board, LoRA chip RN2483A.
+- From the group, I got familiarized in doing the blue track whereby the gas sensor and LoRA pair were interfaced using the Arduino Uno board. 
+
+
+<p align="center">
+<img src="./assets/course2/2_technical_part_2.PNG" class="inline"/>
+</p>
+
+**B. Individual work on MAC Layer for IoT Networks**
+In the ‘cellular’ based technology category, I chose NB-IoT and in Proprietary category I chose LoRA technologies. I investigated the MAC layer access method mechanisms. 
+
+<p align="center">
+<img src="./assets/course1/1_technical_part_2.PNG" class="inline"/>
+</p>
+
+With Arduino, we achieve to make a detecting system that when the gas index is higher than our standard, the buzzer will alarm. We used interruption of arduino to do this. The code is in the folder. After the soldering of the LoRa chip RN2483A, we succeed in communicating with the TTN platform.
+- Also, I learnt to optimize the energy consumption of LoRA by placing it in sleep mode
+- And, I learnt how to use KiCAD to establish a best circuit between LoRA module and the gas sensor. 
+Please find the below documents at https://github.com/MOSH-Insa-Toulouse/2019_MOSH_B1_XUANTANG_HUIJIE_ZHE_Mohan
+1. Arduino Software files
+2. Kicad files
+3. Node-Red dashboard
+
+#### Skills analysis : 
+
+Below, please find the skills that I acquired,
+- Understanding on how to compare computer networks (vs) telecom networks (vs) IoT Networks
+- Understanding on attributes and their importance for IoT networking such as range/coverage, throughput, data rate, interferences
+- Understanding on making choices within short-range wireless technologies for IoT based on attributes such as modulation, uplink/downlink
+- Understanding on making choices within long-range ‘licensed’ wireless technologies for IoT such as NB-IoT, eMTC based on Physical layer and MAC layer technologies, modulation, uplink/downlink
+- Understanding on making choices within long-range ‘unlicensed’ wireless technologies for IoT such as LoRa, Sigfox based on Physical layer and MAC layer technologies
+- Understanding on making choices of IoT network technologies based on the use-cases requirements and the importance of coexistence of multiple communication technologies. 
+- Scanning the market for emerging technologies, choosing a technology, investigate on its past and its future evolution with respect to the industry, use-cases, standardization/certification bodies (3GPP, ITU, IEEE, ETSI etc) 
+- Conducting estimation of power & energy consumption of battery and recommend a proposal for optimal transmission strategies for IoT applications
+
+#### Self Assessment:
+
+|Communication and Protocols|Skill-level expected|Self-assessment|
+|---------------|--------------|---------------|
+|Understand microcontroller architecture and how to use them|2|2|
+|Be able to design data acquisition system (sensor, conditioner, microcontroller) with respect to the application|2|2|
+|Be able to design the electronic circuit of a sensor’s signal conditioner (design + simulation)|2|2|
+|Be able to design a shield to accommodate the gas sensor|2|2|
+|Be able to design the software to use the gas sensor and its HMI|2|2|
+|Be able to combine all of the above mentioned components into a smart device|2|2|
+
+#### Resources
+https://github.com/MOSH-Insa-Toulouse/2019_MOSH_B1_XUANTANG_HUIJIE_ZHE_Mohan
+Datasheet
+
+
+Go to Homepage [HOME](./index.md)
