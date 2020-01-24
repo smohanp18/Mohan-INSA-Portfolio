@@ -32,7 +32,6 @@ I started exploring the Arduino hardware and its various interfaces that are fou
 - From the group, I learnt of doing the green track whereby the LoRA communication pair is created using the Arduino Uno board, LoRA chip RN2483A.
 - From the group, I got familiarized in doing the blue track whereby the gas sensor and LoRA pair were interfaced using the Arduino Uno board. 
 
-
 <p align="center">
 <img src="./assets/course1/1_technical_part_2.PNG" class="inline"/>
 </p>
@@ -45,17 +44,6 @@ Please find the below documents at https://github.com/MOSH-Insa-Toulouse/2019_MO
 2. Kicad files
 3. Node-Red dashboard
 
-#### Skills analysis : 
-
-Below, please find the skills that I acquired,
-- Understanding on how to compare computer networks (vs) telecom networks (vs) IoT Networks
-- Understanding on attributes and their importance for IoT networking such as range/coverage, throughput, data rate, interferences
-- Understanding on making choices within short-range wireless technologies for IoT based on attributes such as modulation, uplink/downlink
-- Understanding on making choices within long-range ‘licensed’ wireless technologies for IoT such as NB-IoT, eMTC based on Physical layer and MAC layer technologies, modulation, uplink/downlink
-- Understanding on making choices within long-range ‘unlicensed’ wireless technologies for IoT such as LoRa, Sigfox based on Physical layer and MAC layer technologies
-- Understanding on making choices of IoT network technologies based on the use-cases requirements and the importance of coexistence of multiple communication technologies. 
-- Scanning the market for emerging technologies, choosing a technology, investigate on its past and its future evolution with respect to the industry, use-cases, standardization/certification bodies (3GPP, ITU, IEEE, ETSI etc) 
-- Conducting estimation of power & energy consumption of battery and recommend a proposal for optimal transmission strategies for IoT applications
 
 #### Self Assessment:
 
