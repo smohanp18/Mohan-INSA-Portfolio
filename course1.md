@@ -34,13 +34,6 @@ I started exploring the Arduino hardware and its various interfaces that are fou
 
 
 <p align="center">
-<img src="./assets/course2/2_technical_part_2.PNG" class="inline"/>
-</p>
-
-**B. Individual work on MAC Layer for IoT Networks**
-In the ‘cellular’ based technology category, I chose NB-IoT and in Proprietary category I chose LoRA technologies. I investigated the MAC layer access method mechanisms. 
-
-<p align="center">
 <img src="./assets/course1/1_technical_part_2.PNG" class="inline"/>
 </p>
 
