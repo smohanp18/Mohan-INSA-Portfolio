@@ -10,7 +10,7 @@ This table gives a quick overview of the courses and their corresponding modules
 
 |Id|Course Name|Module Name|Deliverables Submitted|Skills Analysis|
 |------|------|------|------|-----|
-|course_1|Smart Device<br>(Jeremie GRISOLIA)|Micro-Controllers & OpenSource Hardware (MOSH)<br>Introduction to Sensors|[deliverable_1](./assets/course1/Datasheet - gas sensor.pdf)|[c1_skills](./course1.md)|
+|course_1|Smart Device<br>(Jeremie GRISOLIA)|- Micro-Controllers & OpenSource Hardware (MOSH)<br>- Introduction to Sensors|[deliverable_1](./assets/course1/Datasheet - gas sensor.pdf)|[c1_skills](./course1.md)|
 |course_2|Communication<br>(Daniela, Alexandre, Slim Abdellatif)|Communication Protocols<br>Communication technologies<br>Communication Protocols - TP|[deliverable_1](./assets/course2/course_2_1_2.pdf)<br>[deliverable_2](./assets/course2/course_2_1_1.pdf)<br>[deliverable_3](./assets/course2/course_2_2.pdf)<br>[deliverable_4](./assets/course2/course_2_3.pdf)<br>[deliverable_5](./assets/course2/course_2_4.pdf)|[c2_skills](./course2.md)|
 |course_3|UF Communications|Wireless Network Evolution 3G - 6G<br>Emerging Networks (SDN, LISP)|No Reports|[c3_skills](./course3.md)|
 |course_4|Service Architecture|SoA<br>Software Engineering|[deliverable_1](./assets/course4/course_4_1.pdf)|[c4_skills](./course4.md)|
