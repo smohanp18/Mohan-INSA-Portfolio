@@ -18,7 +18,7 @@ This table gives a quick overview of the courses and their corresponding modules
 |course_6|Cloud(Sami)|Cloud and Autonomic Computing|Reports Not Required|[Skills Analysis](./course6.md)|
 |course_7|Data and Application(Nicolas Seydoux, Gills Treden)|- Semantics<br>- Data Processing & Big data|[deliverable_1](./assets/course7/course_7_1.pdf)<br>[deliverable_2](./assets/course7/course_7_2.pdf)<br>[deliverable_3](./assets/course7/global-tem.Rmd)<br>[deliverable_4](./assets/course7/climate-change-earth-surface-temperature-data.zip)|[semantics_Skill Analysis](./course7a.md)<br>[bigdata_Skill Analysis](./course7b.md)|
 |course_8|Innovative Project|Converged IoT device - mangOH Multiprotocols|[deliverable_1](./assets/course9/course_9_1.pdf)|[Skills Analysis](./course9a.md)|
-
+|course_9|Thesis Defence|Airbus-Connectivity Strategy|[deliverable_1](./assets/course9/course_9_1.pdf)|[Airbus_JD](./assets/Thesis/Airbus_JobDes.pdf)|
 
 ### Contact
 MohanPrabhu Selvaraj - +33646597401
